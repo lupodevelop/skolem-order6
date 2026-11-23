@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The order-6 example of the Skolem survey has no zeros"
+abstract: "A Lean 4 proof that the order-6 linear recurrence sequence of Section 8.3 of Bacik et al., A survey of the Skolem and Positivity Problems for linear recurrence sequences (2026), has no zeros. The argument is a 23-adic valuation argument in the framework of twisted zeros of Bilu, Luca, Nieuwveld, Ouaknine and Worrell."
+type: software
+authors:
+  - family-names: Scaratti
+    given-names: Daniele
+license: Apache-2.0
+repository-code: "https://github.com/lupodevelop/skolem-order6"
+keywords:
+  - Skolem problem
+  - linear recurrence sequences
+  - p-adic valuation
+  - twisted zeros
+  - Lean 4
+  - formal verification
+version: 1.0.0
+date-released: 2026-11-23
