@@ -1,5 +1,7 @@
 # The order-6 example of the Skolem survey has no zeros
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24484086.svg)](https://doi.org/10.5281/zenodo.24484086)
+
 Section 8.3 of Bacik, Karimov, Luca, Nieuwveld, Ouaknine, Purser and Worrell, *A survey of the Skolem and Positivity Problems for linear recurrence sequences* (2026), presents the sequence
 
 $$
@@ -47,3 +49,7 @@ sh verify.sh
 ```
 
 The Lean version is pinned in `lean-toolchain`.
+
+## Citation
+
+Daniele Scaratti, *The order-6 example of the Skolem survey has no zeros*, Zenodo, 2026. [doi:10.5281/zenodo.24484086](https://doi.org/10.5281/zenodo.24484086)

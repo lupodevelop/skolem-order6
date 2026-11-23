@@ -7,6 +7,7 @@ authors:
   - family-names: Scaratti
     given-names: Daniele
 license: Apache-2.0
+doi: 10.5281/zenodo.24484086
 repository-code: "https://github.com/lupodevelop/skolem-order6"
 keywords:
   - Skolem problem
