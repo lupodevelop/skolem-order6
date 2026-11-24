@@ -1,6 +1,7 @@
 # The order-6 example of the Skolem survey has no zeros
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24484086.svg)](https://doi.org/10.5281/zenodo.24484086)
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24507477.svg)](https://doi.org/10.5281/zenodo.24507477)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24484086.svg)](https://doi.org/10.5281/zenodo.24484086)
 
 Section 8.3 of Bacik, Karimov, Luca, Nieuwveld, Ouaknine, Purser and Worrell, *A survey of the Skolem and Positivity Problems for linear recurrence sequences* (2026), presents the sequence
 
@@ -65,8 +66,12 @@ docker run --rm ghcr.io/lupodevelop/skolem-order6:1.1.0
 
 ## Manuscript
 
-[`paper/skolem-order6-no-zeros.pdf`](paper/skolem-order6-no-zeros.pdf) is a short note with the human proof, two figures, the relation to twisted zeros and the formal statement.
+[`paper/skolem-order6-no-zeros.pdf`](paper/skolem-order6-no-zeros.pdf) is a short note with the human proof, two figures, the relation to twisted zeros and the formal statement. It is archived as a preprint at [doi:10.5281/zenodo.24507477](https://doi.org/10.5281/zenodo.24507477).
 
 ## Citation
 
-Daniele Scaratti ([ORCID 0009-0008-3931-8821](https://orcid.org/0009-0008-3931-8821)), *The order-6 example of the Skolem survey has no zeros*, Zenodo, 2026. [doi:10.5281/zenodo.24484086](https://doi.org/10.5281/zenodo.24484086)
+Cite the paper:
+
+Daniele Scaratti ([ORCID 0009-0008-3931-8821](https://orcid.org/0009-0008-3931-8821)), *The order-6 example of the Skolem survey has no zeros*, preprint, Zenodo, 2026. [doi:10.5281/zenodo.24507477](https://doi.org/10.5281/zenodo.24507477)
+
+The Lean sources are archived separately at [doi:10.5281/zenodo.24484086](https://doi.org/10.5281/zenodo.24484086).
