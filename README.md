@@ -57,6 +57,12 @@ docker build -t skolem-order6 .
 docker run --rm skolem-order6
 ```
 
+A prebuilt image for amd64 and arm64 is published on each release:
+
+```sh
+docker run --rm ghcr.io/lupodevelop/skolem-order6:1.1.0
+```
+
 ## Manuscript
 
 [`paper/skolem-order6-no-zeros.pdf`](paper/skolem-order6-no-zeros.pdf) is a short note with the human proof, two figures, the relation to twisted zeros and the formal statement.
