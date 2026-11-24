@@ -23,7 +23,7 @@ Write $\alpha=-4+7i$, $\beta=8+i$ and $V_n = u_n - n = 4\mathrm{Re}\,(\alpha^n) 
 
 ## Relation to twisted zeros
 
-The argument is an instance of the twisted zeros of Bilu, Luca, Nieuwveld, Ouaknine and Worrell. Their Theorem 1.4 states that if $\nu_p(u_{n_k}) \to \infty$ and $\nu_p(n_k - a) \to \infty$, then $a$ is a twisted zero; their Example 1.3 shows the same phenomenon for $2^n+1$. Here $0$ is a twisted zero: with $\xi_1=\xi_2=1$ and $\xi_3,\xi_4$ the primitive cube roots of unity, $2\xi_1+2\xi_2+4\xi_3+4\xi_4 = 0$, and the term $n$ vanishes at $0$. [Bilu et al., Twisted rational zeros of linear recurrence sequences](https://arxiv.org/abs/2401.06537)
+The argument is an instance of the twisted zeros of Bilu, Luca, Nieuwveld, Ouaknine and Worrell. Their Theorem 1.4 states that if $\nu_p(u_{n_k}) \to \infty$ and $\nu_p(n_k - a) \to \infty$ for an integer $a$ and a regular prime $p$, then $a$ is a twisted zero; their Example 1.3 shows the same phenomenon for $2^n+1$. Here $0$ is a twisted zero: with $\xi_1=\xi_2=1$ and $\xi_3,\xi_4$ the primitive cube roots of unity, $2\xi_1+2\xi_2+4\xi_3+4\xi_4 = 0$, and the term $n$ vanishes at $0$. [Bilu et al., Twisted rational zeros of linear recurrence sequences](https://arxiv.org/abs/2401.06537)
 
 The method comes from that work. Example 2.7.5 of Nieuwveld's PhD thesis (Saarland University, 2025) applies it to a related sequence and names this one as an example the method does not reach. Neither Bilu et al. nor Bacik's later [arXiv:2609.16392](https://arxiv.org/abs/2609.16392) proves that this sequence has no zero.
 
